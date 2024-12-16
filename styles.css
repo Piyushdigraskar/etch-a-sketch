@@ -11,3 +11,12 @@
     border: 1px solid black;   /* Adds a border for visibility */
     box-sizing: border-box; 
 }
+
+#reset{
+ margin-bottom: 20px;
+ background-color: aqua;
+ border-radius: 25px;
+ font-weight: bold;
+ padding: 10px;
+ font-size: 20px;
+}
