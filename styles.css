@@ -1,13 +1,12 @@
 .container{
        display: flex;
        flex-wrap: wrap;
-       width: 480px;
+       width: auto;
        height: 480px;
 
 }
 .grid{
-       width: 30px;               /* A fixed width for now */
-    height: 30px;              /* Same height to keep it square */
+
     border: 1px solid black;   /* Adds a border for visibility */
     box-sizing: border-box; 
 }
